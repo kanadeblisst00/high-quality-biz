@@ -1,1 +1,5 @@
-Download/
+pycontacts/
+*.py
+*.txt
+logs/
+**__pycache__/
